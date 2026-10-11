@@ -1,6 +1,6 @@
 # DRTS Lab Edge AI Optimization
 
-**University of Tehran research on efficient and deployable artificial intelligence at the edge.**
+**University of Tehran DRTS Lab research on efficient and deployable artificial intelligence at the edge.**
 
 This organization hosts reproducible experiments, evaluation tools, and edge-device implementations from DRTS Lab.
 
