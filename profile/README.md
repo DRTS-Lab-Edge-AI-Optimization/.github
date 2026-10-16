@@ -8,6 +8,7 @@ This organization hosts reproducible experiments, evaluation tools, and edge-dev
 
 | Repository | Description |
 | --- | --- |
+| [CLRerNet-CULane-GPU-Profiling](https://github.com/DRTS-Lab-Edge-AI-Optimization/CLRerNet-CULane-GPU-Profiling) | CLRerNet DLA34 evaluation and GPU profiling on CULane with Tesla T4, including accuracy, latency, TensorRT, ONNX, and per-layer analysis. |
 | [ufldv1-compression](https://github.com/DRTS-Lab-Edge-AI-Optimization/ufldv1-compression) | Compression experiments for Ultra-Fast-Lane-Detection v1 (UFLD v1). |
 | [ufldv1-evaluation-pi5](https://github.com/DRTS-Lab-Edge-AI-Optimization/ufldv1-evaluation-pi5) | ONNX evaluation and deployment workflow for Raspberry Pi 5. |
 
